@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Burp Suite loader</h1>
 <p>
   <img src="https://img.shields.io/badge/release-v1.0-brightgreen" />
-  <img src="https://img.shields.io/github/license/x-Ai/BurpSuiteLoader />
+  <img src="https://img.shields.io/github/license/x-Ai/BurpSuiteLoader" />
 </p>
 <h3 align="center">有能力者请购买正版软件！ link:https://portswigger.net/burp
 </h3>
