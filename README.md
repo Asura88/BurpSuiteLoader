@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">有能力者请购买正版软件！ link:https://portswigger.net/burp
 </h3>
-<h5 align="center">本项目只是为了兴趣爱好，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担并将追究其相关责任！
+<h5 align="center">本项目只是为了兴趣爱好学习交流，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担并将追究其相关责任！
 </h5>
 <h5 align="center">此项目可直接Patch未来更新的Burp Suite版本*
 </h5>
