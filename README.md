@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to Burp Suite loader</h1>
+<h6 align="right">- 致敬永远好奇的心</h6>
 <p>
   <img src="https://img.shields.io/badge/release-v1.0-brightgreen" />
   <img src="https://img.shields.io/badge/license-GPL--3.0-orange" />
