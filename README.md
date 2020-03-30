@@ -2,7 +2,7 @@
 <p>
   <img src="https://img.shields.io/badge/release-v0.1-brightgreen" />
 </p>
-<h3 align="center">有能力者请购买正版软件！ website：https://portswigger.net/burp
+<h3 align="center">有能力者请购买正版软件！ linkhttps://portswigger.net/burp
 </h3>
 <h5 align="center">本项目只是为了兴趣爱好，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担并将追究其相关责任！
 </h5>
