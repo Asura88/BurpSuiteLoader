@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/release-v0.1-brightgreen" />
 </p>
 
-<h5 style="text-align:center;font-size:0.875em;color:#24292E;font-family:-apple-system, system-ui, &quot;background-color:#FFFFFF;">此项目可直接Patch未来更新的Burp Suite版本*
+<h5 align="center">此项目可直接Patch未来更新的Burp Suite版本*
 </h5>
 <br>
 
