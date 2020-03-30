@@ -7,7 +7,7 @@
 </h5>
 <br>
 
-+ 分析创建: Hywell_28 && x-Ai
++ 分析创建: Hywell && x-Ai
 + 致谢: ***surferxyz*** && ***scz*** 二位大拿
 
  &ensp; &ensp;本项目起初是为了想让Burp Suite在具有HiDPI分辨率的windows机器上清楚的适配分辨率。经过测试，发现高版本的Java具有良好高分辨率的适配性。因此为了让Burp Suite可以在高分辨率上完美的运行，就参考现在常用的，经由 *scz* 大师傅修改更新loader && keygen。参考 *scz* 博文中提到的方法分析了burp-loader-keygen的Patch方法及Burp Suite的注册方法，固定了Patch方式，实现通杀。
