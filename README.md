@@ -25,5 +25,5 @@
 
 > `BurpSuite version v2020.1 - ∞`
 
-> `java -noverify -javaagent:burp_loader.jar -jar burpsuite_pro_xxxx.jar`
+> `java -noverify -javaagent:BurpSuiteLoader.jar -jar burpsuite_pro_xxxx.jar`
 <br>
