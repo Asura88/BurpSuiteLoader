@@ -3,6 +3,7 @@
 <p>
   <img src="https://img.shields.io/badge/release-v1.0-brightgreen" />
   <img src="https://img.shields.io/badge/license-GPL--3.0-orange" />
+  <img src="https://img.shields.io/github/stars/x-Ai/BurpSuiteLoader" />
 </p>
 <h3 align="center">有能力者请购买正版软件！ link:https://portswigger.net/burp
 </h3>
