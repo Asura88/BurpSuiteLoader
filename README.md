@@ -9,7 +9,7 @@
 </h3>
 <h5 align="center">本项目只是为了兴趣爱好学习交流，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担并将追究其相关责任！
 </h5>
-<h5 align="center">此项目可在PortSwigger不改变目前注册算法的情况下直接Patch未来更新的Burp Suite版本*
+<h5 align="center">此项目可在PortSwigger不改变目前注册算法的情况下直接Patch未来更新的Burp Suite版本*未混淆，请自行围观jar包
 </h5>
 <br>
 <img src="https://github.com/x-Ai/BurpSuiteLoader/blob/master/Main.png" />
